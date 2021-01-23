@@ -2,3 +2,4 @@ projects:
   - name: EliteAPI
     description: EliteAPI
     path: eliteapi
+  - name: Valsom
