@@ -3,7 +3,10 @@ menu:
   options:
   - name: .NET
     path: net
+    description: .NET class library
+  - name: VoiceAttack
+    path: voiceattack
+    description: VoiceAttack plugin
   - name: VoiceMacro
     path: voicemacro
-  - name: VoiceMacro
-    path: voicemacro
+    description: VoiceMacro plugin
