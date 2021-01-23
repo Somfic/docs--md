@@ -1,5 +1,5 @@
 menu:
-  - promt: platform
+  - prompt: platform
   - options:
     - name: .NET
       path: net
