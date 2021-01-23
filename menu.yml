@@ -3,7 +3,7 @@ menu:
   options:
   - name: EliteAPI
     path: eliteapi
-    description: API for Elite: Dangerous
+    description: 'API for Elite: Dangerous'
   - name: Valsom
     path: valsom
     description: Packages for everything
