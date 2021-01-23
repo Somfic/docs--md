@@ -1,5 +1,6 @@
-projects:
+menu:
+  - prompt: project
   - name: EliteAPI
-    description: EliteAPI
     path: eliteapi
   - name: Valsom
+    path: valsom
