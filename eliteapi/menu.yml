@@ -1,9 +1,9 @@
 menu:
-  - prompt: platform
-  - options:
-    - name: .NET
-      path: net
-    - name: VoiceAttack
-      path: voiceattack
-    - name: VoiceMacro
-      path: voicemacro
+  prompt: platform
+  options:
+  - name: .NET
+    path: net
+  - name: VoiceMacro
+    path: voicemacro
+  - name: VoiceMacro
+    path: voicemacro
