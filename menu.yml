@@ -1,9 +1,14 @@
 menu:
-  prompt: project
+  prompt: 'project'
   options:
-  - name: EliteAPI
-    path: eliteapi
+  - name: 'EliteAPI'
+    path: 'eliteapi'
     description: 'API for Elite: Dangerous'
-  - name: Valsom
-    path: valsom
-    description: Packages for everything
+    organisation: 'EliteAPI'
+    final: true
+
+  - name: 'Valsom'
+    path: 'valsom'
+    description: 'Packages for everything'
+    organisation: 'Valsom'
+    hidden: true

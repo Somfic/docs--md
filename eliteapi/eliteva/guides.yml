@@ -1,0 +1,30 @@
+guides:
+  label: 'Pinned guides'
+  icon: 'bookmark'
+
+  items:
+    - name: 'Installation'
+      path: 'installation'
+      description: 'Get started using EliteVA with VoiceAttack.'
+      tags:
+        - 'Getting started'
+        - 'Installation'
+
+    - name: 'Variables'
+      path: 'variables'
+      description: 'An overview of all available variables within EliteVA.'
+      tags:
+        - 'Variables'
+
+    - name: 'Events'
+      path: 'events'
+      description: 'How to hook in-game events to VoiceAttack commands.'
+      tags:
+        - 'Commands'
+        - 'Events'
+
+    - name: 'Cheatsheets'
+      path: 'cheatsheets'
+      description: 'An overview of all reference notes within EliteVA.'
+      tags:
+        - 'Cheatsheet'

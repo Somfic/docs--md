@@ -1,0 +1,23 @@
+guides:
+  label: 'EliteAPI platforms'
+  icon: 'book'
+
+  items:
+    - name: '.NET'
+      path: 'net'
+      description: 'Elite: Dangerous for the .NET application framework'
+      tags:
+        - 'C#'
+        - 'VB.NET'
+
+    - name: 'EliteVA'
+      path: 'eliteva'
+      description: 'A VoiceAttack plugin implementation of EliteAPI'
+      tags:
+        - 'VoiceAttack'
+
+    - name: 'EliteMacro'
+      path: 'elitemacro'
+      description: 'A VoiceMacro plugin implementation of EliteAPI'
+      tags:
+        - 'VoiceMacro'

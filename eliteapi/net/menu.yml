@@ -1,6 +1,0 @@
-menu:
-  prompt: platform
-  options:
-  - name: Getting started
-    path: getting-started
-    description: Getting started
