@@ -13,6 +13,6 @@ jobs:
       - name: Triggeer
         uses: benc-uk/workflow-dispatch@v1
         with:
-          repo: docs-site
+          repo: Somfic/docs-site
           workflow: Deploy
           token: ${{ secrets.PAT_TOKEN }}
