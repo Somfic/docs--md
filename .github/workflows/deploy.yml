@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Trigger site workflow
-        run: |
-          curl --request POST --url 'https://api.github.com/repos/Somfic/docs-site/dispatches' --header 'authorization: Bearer ${{secrets.PAT_TOKEN}}' --data '{"event_type":"hello"}'
+      - name: Triggeer
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          repo: docs-site
+          workflow: Deploy
+          token: ${{ secrets.PAT_TOKEN }}
