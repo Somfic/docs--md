@@ -23,8 +23,8 @@ guides:
         - 'Commands'
         - 'Events'
 
-    - name: 'Cheatsheets'
-      path: 'cheatsheets'
+    - name: 'Cheatsheet'
+      path: 'cheatsheet'
       description: 'An overview of all reference notes within EliteVA.'
       tags:
         - 'Cheatsheet'
