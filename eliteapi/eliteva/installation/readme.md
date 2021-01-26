@@ -1,3 +1,5 @@
 # Installation
 
-## Downloading EliteVA.dll
+## Download
+
+EliteAPI can be downloaded on [GitHub](https://www.github.com)
