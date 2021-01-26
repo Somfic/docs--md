@@ -5,3 +5,5 @@ EliteAPI is an *application programming interface* for Elite: Dangerous that doe
 Select an option below to get more platform specific information about EliteAPI.
 
 [[guides]]
+
+EliteAPI is available on .NET, VoiceAttack, and VoiceMacro.
