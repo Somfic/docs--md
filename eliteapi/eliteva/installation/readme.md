@@ -1,3 +1,3 @@
 # Installation
 
-Todo: fill this baby up 2.0
+Todo: fill this baby up
