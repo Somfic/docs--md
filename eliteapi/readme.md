@@ -6,4 +6,4 @@ Select an option below to get more platform specific information about EliteAPI.
 
 [[guides]]
 
-EliteAPI is available on .NET, VoiceAttack, and VoiceMacro.
+EliteAPI is available on .NET, VoiceAttack, and VoiceMacro. :)
