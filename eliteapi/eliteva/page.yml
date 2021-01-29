@@ -1,10 +1,13 @@
 title: 'EliteVA'
 
 buttons:
-  - label: 'Download plugin'
+  - label: 'Source code'
+    icon: 'github'
+    link: 'https://github.com/EliteAPI/EliteAPI/tree/dev/Plugins/EliteVA'
+
+  - label: 'Download'
     icon: 'download'
     link: 'https://github.com/EliteAPI/EliteAPI/releases/download/v3.0.0-alpha.1032/EliteVA.dll'
-
 guides:
   label: 'Pinned guides'
   icon: 'bookmark'
