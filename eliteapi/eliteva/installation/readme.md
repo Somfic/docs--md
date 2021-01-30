@@ -39,7 +39,7 @@ If the install is performed correctly VoiceAttack should show some set of messag
 "Plugin support enabled."\
 "Initializing EliteAPI vX.X.X.X"\
 "EliteAPI has started"\
-"Plugin 'EliteVA' initialized."\
+"Plugin 'EliteVA' initialized."
 
 If these messages do not appear in VoiceAttack, double check that you followed the installation guide correctly and if problems continue to persist contact Somfic on [Discord](https://www.discord.gg/jwpFUPZ) for assistance.
 
