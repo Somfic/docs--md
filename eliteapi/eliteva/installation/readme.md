@@ -36,16 +36,16 @@ Once you have the EliteVA.dll file in the correct directory as described above, 
 Reopen VoiceAttack.
 
 If the install is performed correctly VoiceAttack should show some set of messages along the lines of:
-"Plugin support enabled."
-"Initializing EliteAPI vX.X.X.X"
-"EliteAPI has started"
-"Plugin 'EliteVA' initialized."
+"Plugin support enabled."\
+"Initializing EliteAPI vX.X.X.X"\
+"EliteAPI has started"\
+"Plugin 'EliteVA' initialized."\
 
 If these messages do not appear in VoiceAttack, double check that you followed the installation guide correctly and if problems continue to persist contact Somfic on [Discord](https://www.discord.gg/jwpFUPZ) for assistance.
 
 ## Best Practices
-Now that you have EliteVA properly installed, it is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.
+Now that you have EliteVA properly installed, it is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.\
 
-Fly dangerously, Commander.
+Fly dangerously, Commander.\
 o7
 
