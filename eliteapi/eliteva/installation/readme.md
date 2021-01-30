@@ -43,7 +43,7 @@ If the install is performed correctly VoiceAttack should show some set of messag
 
 If these messages do not appear in VoiceAttack, double check that you followed the installation guide correctly and if problems continue to persist contact Somfic on [Discord](https://www.discord.gg/jwpFUPZ) for assistance.
 
-##Best Practices
+## Best Practices
 Now that you have EliteVA properly installed, it is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.
 
 Fly dangerously, Commander.
