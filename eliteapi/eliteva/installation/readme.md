@@ -12,7 +12,7 @@ With these prerequisite steps complete, download EliteVA at the link below.
 
 ## Download EliteVA
 
-EliteVA can be downloaded [here.](https://github.com/EliteAPI/EliteVA/releases/download/v0.1.0/EliteVA.dll)
+EliteVA can be downloaded [here.](https://github.com/EliteAPI/EliteVA/releases/download/v3.0.0-alpha1055/EliteVA.zip)
 
 ##Install EliteVA
 The download link above will ask you to save the .dll file somewhere on your machine. Save it somewhere you can easily find it.
