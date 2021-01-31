@@ -6,7 +6,9 @@ Before installing EliteVa, make sure you have purchased and installed VoiceAttac
 
 VoiceAttack does have a free version, but to make use of the full functionality of EliteVA, you will need to purchase a license for $10.00 (additional sales tax may apply).
 
-Once VoiceAttack is properly installed, be sure to check the box labeled "Enable Plugin Support" found under the "General" tab of the Voice Attack Options menu.
+Once VoiceAttack is properly installed, be sure to check the box labeled "Enable Plugin Support" found under the "General" tab of the Voice Attack Options menu.\
+
+You will also need a tool to open and extract .zip archives. I highly recommend WinRAR a powerful free tool that is very easy to use. You can download WinRAR for free at this [link](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.\
 
 With these prerequisite steps complete, download EliteVA at the link below.
 
@@ -15,27 +17,33 @@ With these prerequisite steps complete, download EliteVA at the link below.
 EliteVA can be downloaded [here.](https://github.com/EliteAPI/EliteVA/releases/download/v3.0.0-alpha1055/EliteVA.zip)
 
 ## Install EliteVA
-The download link above will ask you to save the .dll file somewhere on your machine. Save it somewhere you can easily find it.
+The download link above will give you the EliteVA.zip archive in your Downloads folder by default.
 
-After the .dll file has finished downloading, open File Explorer and navigate to the .dll file you just downloaded.
+After the archive has finished downloading, open File Explorer and navigate to the .zip file you just downloaded.
 
-Right click the EliteVA.dll file you downloaded and select "Cut". Next navigate to your VoiceAttack install directory.
+Right click the EliteVA.zip file you downloaded and select "Cut". Next, navigate to your VoiceAttack install directory.\
 By default this is located at C:/Program Files (x86)/VoiceAttack
 
-In this folder there should be another folder named "Apps" if not, create it now. 
+In this folder there should be another folder named "Apps" if not, create it now.\ 
 
-Open the Apps folder, and create a new folder in here named EliteVA.
+Open the Apps folder, and create a new folder in here named EliteVA.\
 
 Open the EliteVA folder you just created. Right click anywhere in this folder and select, "Paste".
 
-The EliteVA.dll file should now appear.
+The EliteVA.zip file should now appear.\
+
+Right click on the EliteVA.zip file and select "Extract Here" or otherwise extract the contents of the archive into this folder.\
 
 ## Checking Your Work
-Once you have the EliteVA.dll file in the correct directory as described above, close down VoiceAttack if it is still running.
+You should have the following files in the VoiceAttack/Apps/EliteVA directory:\
+EliteVA.dll\
+A new folder named Mappings\
 
-Reopen VoiceAttack.
+Once you have the above files in the correct directory as described above, close down VoiceAttack if it is still running.\
 
-If the install is performed correctly VoiceAttack should show some set of messages along the lines of:
+Reopen VoiceAttack.\
+
+If the install is performed correctly VoiceAttack should show some set of messages along the lines of:\
 "Plugin support enabled."\
 "Initializing EliteAPI vX.X.X.X"\
 "EliteAPI has started"\
