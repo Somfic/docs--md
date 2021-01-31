@@ -4,7 +4,7 @@
 Before we get started using EliteVA, a few things have to be set up.
 
 ### VoiceAttack
-EliteVA is a plugin for VoiceAttack. If you do not have VoiceAttack installed yet, download it from the [VoiceAttack website (https://voiceattack.com/Default.aspx#download-1).
+EliteVA is a plugin for VoiceAttack. If you do not have VoiceAttack installed yet, download it from the [VoiceAttack website](https://voiceattack.com/Default.aspx#download-1).
 
 VoiceAttack does have a free version, but to make use of the full functionality of EliteVA, you will need to purchase a license for $10.00 (additional sales tax may apply).
 
