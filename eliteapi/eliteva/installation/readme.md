@@ -1,5 +1,5 @@
 # Installation
-This guide will help you install the EliteVA into your VoiceAttack environment.
+This guide will help you install the the EliteVA plugin into your VoiceAttack environment.
 
 ## Prerequisites
 Before we get started using EliteVA, a few things have to be set up.
