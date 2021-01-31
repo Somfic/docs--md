@@ -14,7 +14,7 @@ With these prerequisite steps complete, download EliteVA at the link below.
 
 EliteVA can be downloaded [here.](https://github.com/EliteAPI/EliteVA/releases/download/v3.0.0-alpha1055/EliteVA.zip)
 
-##Install EliteVA
+## Install EliteVA
 The download link above will ask you to save the .dll file somewhere on your machine. Save it somewhere you can easily find it.
 
 After the .dll file has finished downloading, open File Explorer and navigate to the .dll file you just downloaded.
@@ -30,7 +30,7 @@ Open the EliteVA folder you just created. Right click anywhere in this folder an
 
 The EliteVA.dll file should now appear.
 
-##Checking Your Work
+## Checking Your Work
 Once you have the EliteVA.dll file in the correct directory as described above, close down VoiceAttack if it is still running.
 
 Reopen VoiceAttack.
