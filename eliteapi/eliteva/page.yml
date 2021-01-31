@@ -7,7 +7,7 @@ buttons:
 
   - label: 'Download'
     icon: 'download'
-    link: 'https://github.com/EliteAPI/EliteVA/releases/download/v0.1.0/EliteVA.dll'
+    link: 'https://github.com/EliteAPI/EliteVA/releases/download/v3.0.0-alpha1055/EliteVA.zip'
 
 guides:
   label: 'Pinned guides'
