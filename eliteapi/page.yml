@@ -1,3 +1,10 @@
+title: EliteAPI
+
+buttons:
+  - label: 'Source code'
+    icon: 'github'
+    link: 'https://github.com/EliteAPI/EliteAPI'
+
 guides:
   label: 'EliteAPI platforms'
   icon: 'book'
