@@ -16,7 +16,7 @@ You will also need a tool to open and extract .zip archives. I highly recommend 
 The default Windows zip extractor is also sufficient.
 
 ## Downloading EliteVA
-The latest version of EliteVA can be found on the [EliteVA Github page](https://github.com/EliteAPI/EliteVA/releases).
+The latest version of EliteVA can be found on the [EliteVA Github releases page](https://github.com/EliteAPI/EliteVA/releases).
 
 ## Installing EliteVA
 After the archive has finished downloading, open File Explorer and navigate to the .zip file you just downloaded.
