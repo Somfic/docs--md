@@ -30,13 +30,13 @@ C:\Program Files (x86)\VoiceAttack
 C:\Program Files (x86)\Steam\steamapps\common\VoiceAttack
 ```
 
-In the VoiceAttack folder should contain a directory called `Apps`, if not, create it.
+The VoiceAttack folder should contain a directory called `Apps`, if not, create it.
 
-In the `Apps` folder, and create a new directory named `EliteVA`. This will be the root folder for the plugin.
+Navigate into the `Apps` folder and create a new directory named `EliteVA`. This will be the root folder for the plugin.
 
 Open the `EliteVA` directory you just created, right click in the folder and select `"Paste"`. This will paste the `EliteVA.zip` file in the `EliteVA` folder.
 
-Right click on the `EliteVA.zip` file and select `"Extract Here"` to extract the contents of the zip file into your `EliteVA` directory.
+Right click on the `EliteVA.zip` file and select `"Extract Here"` to extract the contents of the zip file into your `EliteVA` directory. The `EliteVA.dll` file and a folder named `Bindings` should appear. The zip also contains a template profile called `EliteVA.vap` that contains a list of every command EliteVA supports.
 
 ### Let's double check that
 You should have the following files in your VoiceAttack directory:
@@ -47,7 +47,7 @@ VoiceAttack\Apps\EliteVA\Bindings
 
 Once you have installed those files, restart VoiceAttack.
 
-If the install is performed correctly VoiceAttack should show some set of messages along the lines of:
+If the installation succeeded correctly VoiceAttack should show now some set of log messages along the lines of:
 ```
 Plugin support enabled
 Initializing EliteAPI v3.X.X.X
@@ -56,10 +56,10 @@ Plugin 'EliteVA' initialized
 ```
 
 ### Still having issues?
-If these messages do not appear in VoiceAttack, double check that you followed the installation guide correctly. If problems still continue to persist contact, support can be found in the [EliteAPI discord](https://www.discord.gg/jwpFUPZ) for assistance.
+If these messages do not appear in VoiceAttack, or another error occurs, double check that you followed the installation guide correctly. If problems still continue to persist, contact Somfic in the [EliteAPI discord](https://www.discord.gg/jwpFUPZ) for assistance.
 
 ## Best practices
-Now that you have EliteVA properly installed, it is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.
+It is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.
 
 Fly dangerously, Commander.
 
