@@ -9,7 +9,7 @@ EliteVA is a plugin for VoiceAttack. If you do not have VoiceAttack installed ye
 
 VoiceAttack does have a free version, but to make use of the full functionality of EliteVA, you will need to purchase a license for $10.00 (additional sales tax may apply).
 
-Once VoiceAttack is properly installed, be sure to check the box labeled "Enable Plugin Support" found under the "General" tab of the Voice Attack Options menu.\
+Once VoiceAttack is properly installed, be sure to check the box labeled "Enable Plugin Support" found under the "General" tab of the Voice Attack Options menu.
 
 ### Zip file extractor
 You will also need a tool to open and extract .zip archives. I highly recommend WinRAR a powerful free tool that is very easy to use. You can download WinRAR for free from [win-rar.com](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.
@@ -58,8 +58,9 @@ Plugin 'EliteVA' initialized
 ### Still having issues?
 If these messages do not appear in VoiceAttack, double check that you followed the installation guide correctly. If problems still continue to persist contact, support can be found in the [EliteAPI discord](https://www.discord.gg/jwpFUPZ) for assistance.
 
-## Best Practices
+## Best practices
 Now that you have EliteVA properly installed, it is recommended to always start VoiceAttack prior to loading up Elite: Dangerous to ensure the API and any associated VoiceAttack profiles track the game's events as accurately as possible.
 
 Fly dangerously, Commander.
+
 **o7**
