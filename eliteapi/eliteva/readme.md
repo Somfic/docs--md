@@ -46,13 +46,13 @@ Implementing all these checks into your profile will certainly boost your profil
 ## Getting started
 Let's get you up and running, commander.
 
-## Installation
+### Installation
 EliteVA is distributed through GitHub; the recommended way to install this plugin. Alternatively, the plugin could also be compiled to retrieve the plugin file.
 
 Download the [EliteVA zip](https://github.com/EliteAPI/EliteVA/releases) and extract it in a new folder called `EliteVA` in your `VoiceAttack\Apps` directory. 
 Make sure **Plugin Support** is enabled in VoiceAttack. After restarting VoiceAttack the EliteVA plugin will be ready to go.
 
-## Events
+### Events
 ```
 ((EliteAPI.Ship.Gear))
 ```
@@ -61,7 +61,7 @@ EliteVA converts a ton of in-game events to macro commands. For example, retract
 
 A list of all supported in-game events can be found [on the documentation website](https://docs.somfic.com/project/eliteapi/eliteva).
 
-## Variables
+### Variables
 ```
 {BOOl:EliteAPI.Gear}
 ```
@@ -69,7 +69,8 @@ A number of variables are made available through EliteVA, these variables are sy
 
 A list of all supported variables can be found [on the documentation website](https://docs.somfic.com/project/eliteapi/eliteva).
 
-## Bindings
+### Bindings
+
 ```
 Variable keypress: [EliteAPI.LandingGearToggle]
 ```
