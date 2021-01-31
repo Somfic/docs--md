@@ -9,10 +9,10 @@ EliteVA is a plugin for VoiceAttack. If you do not have VoiceAttack installed ye
 
 VoiceAttack does have a free version, but to make use of the full functionality of EliteVA, you will need to purchase a license for $10.00 (additional sales tax may apply).
 
-Once VoiceAttack is properly installed, be sure to check the box labeled "Enable Plugin Support" found under the "General" tab of the Voice Attack Options menu.
+Once VoiceAttack is properly installed, be sure to check the box labeled `Enable Plugin Support` found under the `General` tab of the VoiceAttack options menu.
 
 ### Zip file extractor
-You will also need a tool to open and extract .zip archives. I highly recommend WinRAR a powerful free tool that is very easy to use. You can download WinRAR for free from [win-rar.com](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.
+You will also need a tool to open and extract .zip archives. WinRAR is highly recommend. WinRAR is a powerful free tool that is very easy to use. You can download WinRAR for free from [win-rar.com](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.
 
 The default Windows zip extractor is also sufficient.
 
