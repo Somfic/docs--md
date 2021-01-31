@@ -22,7 +22,7 @@ The latest version of EliteVA can be found on the [EliteVA Github releases page]
 ## Installing EliteVA
 After the archive has finished downloading, open File Explorer and navigate to the .zip file you just downloaded.
 
-Right click the `EliteVA.zip` file you downloaded and select `"Cut"`. Next, navigate to your VoiceAttack installation directory. This folder is located at the following paths by default:
+Right click the `EliteVA.zip` file you downloaded and select `"Cut"`. Next, navigate to your VoiceAttack installation directory. This folder is located at one of the following paths by default:
 ```
 C:\Program Files (x86)\VoiceAttack
 ```
