@@ -3,7 +3,10 @@ This guide will help you install the the EliteVA plugin into your VoiceAttack en
 
 ## Prerequisites
 Before we get started using EliteVA, a few things have to be set up.
-Note, Elite: Dangerous should already been installed. If you don't have it installed at the moment, go ahead and do so now, then come back here!
+Note, You should have Elite: Dangerous installed before beginning this process. If you don't have it installed at the moment, go ahead and do so now, then come back here!
+
+### EliteAPI
+EliteAPI is the backbone that EliteVA uses to work its magic. Therefore, it is necessary to have EliteAPI installed in order for EliteVA to work properly! Be sure to download the setup.exe file of the latest EliteAPI release [here] (https://github.com/EliteAPI/EliteAPI/releases/), and run it so that you have EliteAPI properly installed before continuing.
 
 ### VoiceAttack
 EliteVA is a plugin for VoiceAttack. If you do not have VoiceAttack installed yet, download it from the [VoiceAttack website](https://voiceattack.com/Default.aspx#download-1).
