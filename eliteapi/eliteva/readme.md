@@ -5,10 +5,10 @@ EliteVA is a plugin for VoiceAttack that can full connect your macros to your El
 [[guides]]
 
 ## Why EliteVA?
-Let's consider the scenario of wanting to retracting our landing gear through a VoiceAttack macro.
+Let's consider the scenario of wanting to retract our landing gear through a VoiceAttack macro.
 
 ### Without EliteVA
-Tradionally, the macro would be quite simple:
+Traditionally, the macro would be quite simple:
 
 ```
 Press the `G` key
@@ -18,7 +18,7 @@ However, this isn't a very smart way to go about it.
 What if the landing gear is already retracted, what if the commander is currently in supercruise? 
 Or what if the landing gear key is not actually the `G` key?
 
-There are a lot of scenarios where this macro would fail. EliteVA can help you turn your profiles into intelligent voice assistantances that actually know what is going on in-game.
+There are a lot of scenarios where this macro would fail. EliteVA can help you turn your profiles into intelligent voice assistant's that actually know what is going on in-game.
 
 ### With EliteVA
 When using EliteVA we can make the macro smarter in a lot of ways.
@@ -57,7 +57,7 @@ Make sure **Plugin Support** is enabled in VoiceAttack. After restarting VoiceAt
 ((EliteAPI.Ship.Gear))
 ```
 
-EliteVA converts a ton of in-game events to macro commands. For example, retracting your gear will trigger the `((EliteAPI.Ship.Gear))` command, while cracking an ateriod will trigger the `((EliteAPI.AsteroidCracked))` event.
+EliteVA converts a ton of in-game events to macro commands. For example, retracting your gear will trigger the `((EliteAPI.Ship.Gear))` command, while cracking an asteroid will trigger the `((EliteAPI.AsteroidCracked))` event.
 
 A list of all supported in-game events can be found [on the documentation website](https://docs.somfic.com/project/eliteapi/eliteva).
 
@@ -65,7 +65,7 @@ A list of all supported in-game events can be found [on the documentation websit
 ```
 {BOOl:EliteAPI.Gear}
 ```
-A number of variables are made available through EliteVA, these variables are synced with the game. For example, `{BOOl:EliteAPI.Gear}` holds the the value of the ship's landing gear, and `{BOOL:MassLocked}` contains information on whether or not you're currently mass-locked.
+A number of variables are made available through EliteVA, these variables are synced with the game. For example, `{BOOl:EliteAPI.Gear}` holds the value of the ship's landing gear, and `{BOOL:MassLocked}` contains information on whether you're currently mass-locked.
 
 A list of all supported variables can be found [on the documentation website](https://docs.somfic.com/project/eliteapi/eliteva).
 

@@ -1,5 +1,7 @@
 # Installation
-This guide will help you install the the EliteVA plugin into your VoiceAttack environment.
+This guide will help you install the EliteVA plugin into your VoiceAttack environment.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W6rGqez2O-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prerequisites
 Before we get started using EliteVA, a few things have to be set up.
@@ -16,7 +18,7 @@ VoiceAttack does have a free version, but to make use of the full functionality 
 Once VoiceAttack is properly installed, be sure to check the box labeled `Enable Plugin Support` found under the `General` tab of the VoiceAttack options menu.
 
 ### Zip file extractor
-You will also need a tool to open and extract .zip archives. WinRAR is highly recommend. WinRAR is a powerful free tool that is very easy to use. You can download WinRAR for free from [win-rar.com](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.
+You will also need a tool to open and extract .zip archives. WinRAR is highly recommended. WinRAR is a powerful free tool that is very easy to use. You can download WinRAR for free from [win-rar.com](https://www.win-rar.com/start.html?&L=0) by clicking the blue download button.
 
 The default Windows zip extractor is also sufficient.
 
