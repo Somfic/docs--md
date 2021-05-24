@@ -72,3 +72,9 @@ For more information on VoiceAttack variable usage see [the VoiceAttack help gui
 |`boolean`|VeryCold|Set to `true` if the commander is very cold|
 |`boolean`|Hot|Set to `true` if the commander is hot|
 |`boolean`|VeryHot|Set to `true` if the commander is very hot|
+|`decimal`|Oxygen|The percentage of oxygen available to the commander|
+|`decimal`|Health |The commander's health percentage|
+|`integer`|Temperature|The temperature in Kelvin|
+|`text`|SelectedWeapon|The commander's selected weapon|
+|`text`|SelectedWeaponLocalised|Localised version of *SelectedWeapon*|
+|`decimal`|Gravity|The gravity relative to Earth's|
