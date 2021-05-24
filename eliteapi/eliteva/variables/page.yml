@@ -5,12 +5,56 @@ guides:
   icon: 'dice-five'
 
   items:
-    - name: 'Status variables'
+    - name: 'Status'
       path: 'status'
       description: 'Status variables are constantly updated as you play the game.'
       tags:
+        - 'Status.json'
 
-    - name: 'Event variables'
+    - name: 'Events'
       path: 'events'
       description: 'Event variables are only outputted when an in-game event occurs.'
       tags:
+        - 'Journal file'
+
+    - name: 'Cargo'
+      path: 'cargo'
+      description: 'Cargo status variables'
+      tags:
+        - 'Cargo.json'
+
+    - name: 'Market'
+      path: 'market'
+      description: 'Market status variables'
+      tags:
+        - 'Market.json'
+
+    - name: 'Modules'
+      path: 'modules'
+      description: 'Modules status variables'
+      tags:
+        - 'ModulesInfo.json'
+
+    - name: 'NavRoute'
+      path: 'navroute'
+      description: 'NavRoute status variables'
+      tags:
+        - 'NavRoute.json'
+
+    - name: 'Outfitting'
+      path: 'outfitting'
+      description: 'Outfitting status variables'
+      tags:
+        - 'Outfitting.json'
+
+    - name: 'Backpack'
+      path: 'backpack'
+      description: 'Backpack status variables'
+      tags:
+        - 'Backpack.json'
+
+    - name: 'Shipyard'
+      path: 'shipyard'
+      description: 'Shipyard status variables'
+      tags:
+        - 'Shipyard.json'
