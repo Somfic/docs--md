@@ -1,0 +1,16 @@
+title: 'Variables'
+
+guides:
+  label: 'Variable types'
+  icon: 'dice-five'
+
+  items:
+    - name: 'Status variables'
+      path: 'status'
+      description: 'Status variables are constantly updated as you play the game.'
+      tags:
+
+    - name: 'Event variables'
+      path: 'event'
+      description: 'Event variables are only outputted when an in-game event occurs.'
+      tags:
