@@ -5,16 +5,20 @@ The default syntax for event variables in VoiceAttack is as follows:
 {<Type>:EliteAPI.<EventName>.<PropretyName>}
 ```
 
-Elite: Dangerous outputs hundreds events with thousands of parameters in total. 
-For a full list of all available events and variables see the [official Journal manual](https://hosting.zaonce.net/community/journal/v30/Journal_Manual_v30.pdf).
+For example, the `StarSystem` property in the `FSDJump` event would be:
+
+```
+{TXT:EliteAPI.FSDJump.StarSystem}
+```
+
+Elite: Dangerous outputs hundreds of events with thousands of parameters in total. 
+Listing all those individual variables here would be a waste of time, instead check out [the official Journal manual](https://hosting.zaonce.net/community/journal/v30/Journal_Manual_v30.pdf)
+for an overview of all in-game events and their variables.
 Every event mentioned in this manual is made available in EliteVA.
 
-For more information on VoiceAttack variable usage see [the VoiceAttack help guide](https://voiceattack.com/VoiceAttackHelp.pdf).
+If you're ever unsure what the specific name or type of a variable is, check the `ActiveVariables.txt` file located in the same folder as the `EliteVA.dll` file for an overview of all set variables by the plugin.
 
-## ActiveVariables.txt
-During runtime, EliteVA will generate a file named `ActiveVariables.txt` in the same folder as the `EliteVA.dll` file.
-This file is constantly updated to reflect which variables are set by EliteVA. 
-If you're ever unsure about which specific variables the plugin has set, the `ActiveVariables.txt` file will be your best bet to find out.
+For more information on VoiceAttack variable usage see [the VoiceAttack help guide](https://voiceattack.com/VoiceAttackHelp.pdf).
 
 ## Complex variables
 Some events contain complexer variables; **objects** and **arrays**. EliteVA is able to handle these complex variables too.
