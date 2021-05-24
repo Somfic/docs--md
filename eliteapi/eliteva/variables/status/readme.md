@@ -3,6 +3,11 @@ Status variables are constantly updated as you play the game. The default syntax
 ```
 {<Type>:EliteAPI.<Name>}
 ```
+For example, the `Gear` variable would be:
+```
+{BOOL:EliteAPI.Gear}
+```
+
 
 For more information on VoiceAttack variable usage see [the VoiceAttack help guide](https://voiceattack.com/VoiceAttackHelp.pdf).
 
