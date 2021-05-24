@@ -47,7 +47,7 @@ Let's get you up and running, commander.
 ### Installation
 EliteVA is distributed through GitHub; the recommended way to install this plugin. Alternatively, the plugin could also be compiled to retrieve the plugin files.
 
-Download the latest [EliteVA zip](https://github.com/EliteAPI/EliteVA/releases) and extract it in a new folder called `EliteVA` in your `VoiceAttack\Apps` directory. 
+Download the latest [EliteVA zip](https://github.com/EliteAPI/EliteVA/releases/latest) and extract it in a new folder called `EliteVA` in your `VoiceAttack\Apps` directory. 
 Make sure **Plugin Support** is enabled in VoiceAttack. After restarting VoiceAttack, the EliteVA plugin will be ready to go.
 
 ### Events
