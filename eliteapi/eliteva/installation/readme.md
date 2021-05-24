@@ -1,7 +1,7 @@
+[[youtube: W6rGqez2O-U, Check out this how-to-setup guide by WhiteCollar]]
+
 # Installation
 This guide will help you install the EliteVA plugin into your VoiceAttack environment.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W6rGqez2O-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prerequisites
 Before we get started using EliteVA, a few things have to be set up.
