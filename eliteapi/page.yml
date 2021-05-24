@@ -12,19 +12,19 @@ guides:
   items:
     - name: '.NET'
       path: 'net'
-      description: 'Elite: Dangerous for the .NET application framework'
+      description: 'EliteAPI for the .NET coding framework'
       tags:
         - 'C#'
         - 'VB.NET'
 
-    - name: 'EliteVA'
+    - name: 'VoiceAttack'
       path: 'eliteva'
-      description: 'A VoiceAttack plugin implementation of EliteAPI'
+      description: 'EliteVA is a VoiceAttack plugin implementation of EliteAPI'
       tags:
         - 'VoiceAttack'
 
-    - name: 'EliteMacro'
+    - name: 'VoiceMacro'
       path: 'elitemacro'
-      description: 'A VoiceMacro plugin implementation of EliteAPI'
+      description: 'EliteMacro is a VoiceMacro plugin implementation of EliteAPI'
       tags:
         - 'VoiceMacro'
