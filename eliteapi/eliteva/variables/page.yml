@@ -11,6 +11,6 @@ guides:
       tags:
 
     - name: 'Event variables'
-      path: 'event'
+      path: 'events'
       description: 'Event variables are only outputted when an in-game event occurs.'
       tags:

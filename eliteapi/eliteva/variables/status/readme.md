@@ -1,10 +1,10 @@
 Status variables are constantly updated as you play the game. The default syntax for these variables in VoiceAttack is as follows:
 
 ```
-{<TYPE>:EliteAPI.<Name>}
+{<Type>:EliteAPI.<Name>}
 ```
 
-For more information on VoiceAttack variables see [the VoiceAttack help guide](https://voiceattack.com/VoiceAttackHelp.pdf).
+For more information on VoiceAttack variable usage see [the VoiceAttack help guide](https://voiceattack.com/VoiceAttackHelp.pdf).
 
 ## Available variables
 |Type|Name|Description|
