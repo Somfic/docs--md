@@ -1,6 +1,10 @@
 title: EliteAPI
 
 buttons:
+  - label: 'Discord'
+    icon: 'discord'
+    link: 'https://www.discord.gg/jwpFUPZ'
+
   - label: 'Source code'
     icon: 'github'
     link: 'https://github.com/EliteAPI/EliteAPI'

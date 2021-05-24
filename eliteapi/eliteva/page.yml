@@ -33,7 +33,7 @@ guides:
       tags:
         - 'Commands'
         - 'Events'
-     
+
     - name: 'Bindings'
       path: 'bindings'
       description: 'Everything you need to know about keybindings within EliteVA.'
