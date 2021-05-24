@@ -1,6 +1,6 @@
-This guide will help you install the EliteVA plugin into your VoiceAttack environment.
-
 [[youtube: W6rGqez2O-U, Check out this how-to-setup guide by WhiteCollar]]
+
+This guide will help you install the EliteVA plugin into your VoiceAttack environment.
 
 ## Prerequisites
 Before we get started using EliteVA, a few things have to be set up.
