@@ -7,7 +7,7 @@ buttons:
 
   - label: 'Download'
     icon: 'download'
-    link: 'https://github.com/EliteAPI/EliteVA/releases/latest/download/eliteva.zip'
+    link: 'https://github.com/EliteAPI/Plugins/releases/latest/download/eliteva.zip'
 
 guides:
   label: 'Pinned guides'
